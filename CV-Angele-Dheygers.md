@@ -2,7 +2,7 @@
 
 ## Contact
 
-![Photo.](P1000478 (2).jpg)
+![Photo](P1000478 (2).jpg)
 
 Adresse : 123 rue Méridienne, appt 119, 76100 Rouen  
 Mail : angele@dheygers.fr  
