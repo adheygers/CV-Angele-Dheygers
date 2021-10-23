@@ -11,7 +11,7 @@ Numéro de téléphone : 06.51.23.69.49
 ## Formations
 
 Septembre 2021 - Septembre 2023   
-**Concepteur designer UI web**  
+**Chef de projet digital**  
 *Normandie Webschool à Rouen (76)*
 
 Septembre 2020 - Décembre 2020  
@@ -46,6 +46,7 @@ Création d'un CD sur les évènements majeurs des 90 dernières années (prise 
 | Anglais       | Courant       |
 | Suite Adobe   | Bases         |
 | Pack Office   | Habituée      |
+| HTML          | Bases         |
 
 ## Centres d'intérêts
 
