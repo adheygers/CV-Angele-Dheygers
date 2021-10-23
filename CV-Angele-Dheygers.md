@@ -41,12 +41,16 @@ Création d'un CD sur les évènements majeurs des 90 dernières années (prise 
 
 ## Compétences
 
-| **Compétence**| **Niveau**    |
-| ------------- |:-------------:|
-| Anglais       | Courant       |
-| Suite Adobe   | Bases         |
-| Pack Office   | Habituée      |
-| HTML          | Bases         |
+| **Compétence**    | **Niveau**    |
+| -------------     |:-------------:|
+| Anglais           | Bonne maîtrise|
+| Adobe InDesign    | Bases         |
+| Adobe Photoshop   | Bases         |
+| Adobe Illustrator | Bases         |
+| Adobe Lightroom   | Bases         |
+| Adobe Premiere Pro| Bases         |
+| Pack Office       | Habituée      |
+| HTML              | Bases         |
 
 ## Centres d'intérêts
 
