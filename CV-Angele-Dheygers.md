@@ -30,7 +30,7 @@ Septembre 2021 - Septembre 2023
 Création de contenu digital pour des entreprises et de support de formation sur l'utilisation des réseaux sociaux
 
 Juillet 2021 - Septembre 2021  
-**Stage auprès de créateur de contenu digital**  
+**Stage Community Manager**  
 *Komeo création à Petit-Quevilly (76)*  
 Création de contenu digital pour des entreprises et de support de formation sur l'utilisation des réseaux sociaux
 
